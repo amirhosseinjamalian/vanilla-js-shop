@@ -1,4 +1,0 @@
-Must Open With Live Server 
-use server
-
-not open Manual
